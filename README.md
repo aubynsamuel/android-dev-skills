@@ -1,6 +1,6 @@
 # Android Skills
 
-A public multi-skill repository for Android coding agents working with Jetpack Compose, Hilt, Room, Navigation 3, and related Android architecture patterns.
+A multi-skill repository for Android coding agents working with Jetpack Compose, Hilt, Room, Navigation 3, and related Android architecture patterns.
 
 This skill set can be installed with the Vercel skills package, and each skill also remains usable as an individual skill.
 
