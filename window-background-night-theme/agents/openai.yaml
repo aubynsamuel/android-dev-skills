@@ -1,4 +1,0 @@
-interface:
-  display_name: "Window Background Night Theme"
-  short_description: "Fix white dark-mode window backgrounds"
-  default_prompt: "Use $window-background-night-theme to add a values-night theme override for this Android app."

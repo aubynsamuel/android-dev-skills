@@ -23,7 +23,6 @@ This skill set can be installed with the Vercel skills package, and each skill a
 - `search-feature`: Build debounced search without cursor-jump issues.
 - `textfield-best-practices`: Improve TextField behavior and IME handling.
 - `ui-standards`: Enforce UI consistency and theme-safe patterns.
-- `window-background-night-theme`: Mirror the active XML theme into `values-night` and add a dark `android:windowBackground` override.
 
 ## Installation
 
