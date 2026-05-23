@@ -1,0 +1,4 @@
+interface:
+  display_name: "Room Setup"
+  short_description: "Configure Room with Hilt and migrations"
+  default_prompt: "Use $room-setup to configure Room, schema exports, and migrations for this Android app."

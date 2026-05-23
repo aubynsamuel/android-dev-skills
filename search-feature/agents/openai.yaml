@@ -1,0 +1,4 @@
+interface:
+  display_name: "Search Feature"
+  short_description: "Build Compose search without cursor jumps"
+  default_prompt: "Use $search-feature to implement a debounced Compose search field cleanly."

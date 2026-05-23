@@ -1,0 +1,4 @@
+interface:
+  display_name: "Material Expressive Theme"
+  short_description: "Configure Android Material Expressive theme"
+  default_prompt: "Use $material-expressive-theme to set up Material Expressive theming in this Compose app."

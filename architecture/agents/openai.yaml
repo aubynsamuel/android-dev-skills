@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture"
+  short_description: "Organize Android app architecture cleanly"
+  default_prompt: "Use $architecture to structure this Android feature across data, domain, and presentation."

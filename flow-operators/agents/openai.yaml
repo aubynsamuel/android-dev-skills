@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow Operators"
+  short_description: "Derive Android UI state with Kotlin Flow"
+  default_prompt: "Use $flow-operators to refactor this ViewModel toward reactive Flow-based state."

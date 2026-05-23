@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screen Overloads"
+  short_description: "Split Compose screens into UI layers"
+  default_prompt: "Use $screen-overloads to structure this Compose screen into stateful and stateless layers."

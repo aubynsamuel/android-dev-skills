@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dependency Injection"
+  short_description: "Set up Hilt dependency injection"
+  default_prompt: "Use $dependency-injection to wire Hilt into this Android app component."

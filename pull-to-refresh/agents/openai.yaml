@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pull to Refresh"
+  short_description: "Add pull-to-refresh to Compose screens"
+  default_prompt: "Use $pull-to-refresh to add a Material 3 pull-to-refresh pattern to this screen."

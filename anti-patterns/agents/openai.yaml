@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anti-Patterns"
+  short_description: "Avoid risky Android and Compose patterns"
+  default_prompt: "Use $anti-patterns to review this Android code for architecture and Compose mistakes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experimental Grid"
+  short_description: "Build Compose layouts with Grid APIs"
+  default_prompt: "Use $experimental-grid to build this Compose layout with the experimental Grid API."

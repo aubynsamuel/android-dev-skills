@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Language Switching"
+  short_description: "Implement Android in-app language switching"
+  default_prompt: "Use $app-language-switching to add per-app language switching to this Android app."

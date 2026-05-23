@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Standards"
+  short_description: "Enforce Android UI consistency rules"
+  default_prompt: "Use $ui-standards to review this Compose UI for consistency and theme compliance."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Navigation"
+  short_description: "Implement type-safe Android navigation"
+  default_prompt: "Use $navigation to add a type-safe Navigation 3 flow to this Compose app."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TextField Best Practices"
+  short_description: "Improve Compose text field behavior"
+  default_prompt: "Use $textfield-best-practices to improve these Compose text fields for forms and search."

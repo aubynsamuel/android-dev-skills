@@ -1,0 +1,4 @@
+interface:
+  display_name: "DTO Entity Alignment"
+  short_description: "Align remote DTOs with local entities"
+  default_prompt: "Use $dto-entity-alignment to model remote DTOs and local entities for this Android data layer."

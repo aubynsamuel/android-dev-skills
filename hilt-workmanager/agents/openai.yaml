@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hilt WorkManager"
+  short_description: "Wire Hilt into Android WorkManager"
+  default_prompt: "Use $hilt-workmanager to configure injected WorkManager workers in this app."

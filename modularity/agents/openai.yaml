@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modularity"
+  short_description: "Keep Android files focused and modular"
+  default_prompt: "Use $modularity to split this Android code into smaller, focused files."
