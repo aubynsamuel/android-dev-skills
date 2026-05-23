@@ -1,8 +1,8 @@
-# Constructly Android Skills
+# Android Skills
 
 A public multi-skill repository for Android coding agents working with Jetpack Compose, Hilt, Room, Navigation 3, and related Android architecture patterns.
 
-Each folder in this repository is an installable skill. Install one or more skills by pointing the Codex skill installer at a specific folder path in the GitHub repo.
+This skill set can be installed with the Vercel skills package, and each skill also remains usable as an individual skill.
 
 ## Repository Layout
 
@@ -26,26 +26,14 @@ Each folder in this repository is an installable skill. Install one or more skil
 
 ## Installation
 
-Install a single skill from this repository by targeting its folder path:
+Install the full skill set with the Vercel skills package:
 
 ```bash
-install-skill-from-github.py --repo <your-github-user>/<your-repo> --path architecture
+npx skills add aubynsamuel/android-dev-skills
 ```
 
-Install multiple skills in one command:
+Or install individual skills by path:
 
 ```bash
-install-skill-from-github.py --repo <your-github-user>/<your-repo> --path architecture --path dependency-injection --path navigation
+npx skills add aubynsamuel/android-dev-skills/anti-patterns
 ```
-
-If you prefer the GitHub URL form:
-
-```bash
-install-skill-from-github.py --url https://github.com/<your-github-user>/<your-repo>/tree/main/architecture
-```
-
-## Publishing Notes
-
-- Keep each skill folder self-contained with `SKILL.md` and optional `agents/openai.yaml`.
-- Put repo-level documentation in this `README.md`, not inside skill folders.
-- Choose and add a license before publishing publicly.
